@@ -1,5 +1,4 @@
-import { Circle } from "../circle";
-
+import { Circle } from "./circle";
 let c1=new Circle(10);
 let c2=new Circle(5);
 
